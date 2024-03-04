@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+Followed the tutorial from [Kaizen Codes](https://www.youtube.com/watch?v=McZWm6Jhk4o&ab_channel=KaizenCodes)
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
